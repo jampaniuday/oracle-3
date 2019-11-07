@@ -1,4 +1,5 @@
 #!/bin/bash
+#/home/oracle/dba/scripts/check_db_sync.sh PRIM_TNS STANDBY_TNS
 
 export PRIM=$1
 export STNDBY=$2
