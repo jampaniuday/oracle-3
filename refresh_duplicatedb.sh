@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# /home/oracle/dba/scripts/refresh/refresh_duplicatedb.sh SOURCE_DB SRC_DB_TNS DEST_DB DEST_DB_TNS
 RES_COL=80
 # Command to move out to the configured column number
 MOVE_TO_COL="echo -en \\033[${RES_COL}G"
